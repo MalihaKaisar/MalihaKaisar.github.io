@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0009-9976-0109"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #URL
   researchgate     : "https://www.researchgate.net/profile/Maliha-Kaisar?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
