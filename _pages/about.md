@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Intern (remote) at Elite Research Lab LLC, working on AI, machine learning, and computer vision, collaborating remotely with an international research team. My research centers on large language models, retrieval-augmented generation (RAG), and natural language processing, with a particular focus on Bangla NLP. My interests also include LLM reasoning and AI deception detection, building on earlier work in stylometry and authorship attribution.
+I'm a Research Intern (remote) at Elite Research Lab LLC, working on AI, machine learning, LLMs abilities, and VLMs collaborating remotely with an international research team. My research centers on large language models, retrieval-augmented generation (RAG), and natural language processing, with a particular focus on Bangla NLP. My interests also include LLM reasoning and AI deception detection, building on earlier work in stylometry and authorship attribution.
 
 I hold a BSc in Computer Science & Engineering from Sylhet Engineering College (affiliated with Shahjalal University of Science and Technology), Bangladesh.
 
