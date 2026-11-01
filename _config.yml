@@ -23,7 +23,7 @@ repository               : "malihakaisar/malihakaisar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilec.jpg"
+  avatar           : "profilep.jpg"
   name             : "Maliha Kaisar"
   pronouns         : "she/her"  
   bio              : "Researcher working on NLP, LLMs, and VLMs"
@@ -67,14 +67,14 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "maliha-k-048802212"
-  mastodon         : # URL
+  mastodon         : "https://medium.com/@malihakaisar100"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "MalihaKaisar"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
