@@ -26,8 +26,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Maliha Kaisar"
   pronouns         : "she/her"  
-  bio              : "Researcher working on NLP, LLMs, and VLMs"
-  location         : "Sylhet, Bangladesh"
+  bio              : "NLP, LLMs, and VLMs"
+  location         : # Sylhet, Bangladesh
   employer         : "Elite Research Lab LLC"
   uri              : # URL
   email            : "malihakaisar100@gmail.com" 
